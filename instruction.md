@@ -52,5 +52,3 @@ Una vez vinculada la rama, para futuros cambios solo necesitas:
 - **git add .**
 - **git commit -m "Descripción del cambio"**
 - **git push**
-
-## Prueba de conflicto
