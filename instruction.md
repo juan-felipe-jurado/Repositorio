@@ -47,7 +47,10 @@ Esto vincula tu rama local con la remota, para que después solo necesites escri
 ### Después de la primera vez
 Una vez vinculada la rama, para futuros cambios solo necesitas:
 - **git push**
+  
 ### Flujo completo típico
 - **git add .**
 - **git commit -m "Descripción del cambio"**
 - **git push**
+
+## contenido del archivo en repositorio remoto
